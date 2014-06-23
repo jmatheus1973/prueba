@@ -1,0 +1,6 @@
+soporte   3117  4.5 25.5 722644 262484 ?       Sl   09:10   4:30 cunaguaro
+soporte   4377  0.5  2.1 138644 22544 ?        Sl   09:48   0:20 /usr/lib/cunaguaro/xulrunner/plugin-container /usr/lib/flashplugin-nonfree/libflashplayer.so -greomni /usr/lib/cunaguaro/xulrunner/omni.ja -appdir /usr/lib/cunaguaro/browser 3117 plugin
+root      4658  0.0  0.0   3480   740 pts/2    S+   10:48   0:00 grep --color=auto cunaguaro
+soporte   3117  4.5 25.6 722708 263276 ?       Sl   09:10   4:30 cunaguaro
+soporte   4377  0.5  2.1 138644 22544 ?        Sl   09:48   0:20 /usr/lib/cunaguaro/xulrunner/plugin-container /usr/lib/flashplugin-nonfree/libflashplayer.so -greomni /usr/lib/cunaguaro/xulrunner/omni.ja -appdir /usr/lib/cunaguaro/browser 3117 plugin
+root      4665  0.0  0.0   3480   740 pts/2    S+   10:49   0:00 grep --color=auto cunaguaro
